@@ -1,5 +1,3 @@
-HackIOS
-
 HackIOS is an experimental project focused on bringing iOS to Android hardware.
 
 Official Token
